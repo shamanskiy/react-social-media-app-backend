@@ -12,7 +12,7 @@ To install dependencies:
 npm install
 ```
 
-The backend use [MongoDB](https://cloud.mongodb.com) for persistence. To configure MongoDB access, add ".env" file to the root with the following content:
+The backend uses [MongoDB](https://cloud.mongodb.com) for persistence. To configure MongoDB access, add ".env" file to the root with the following content:
 
 ```
 CONNECTIONSTRING=<mongo-db-connection-string>
